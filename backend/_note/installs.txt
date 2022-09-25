@@ -1,0 +1,9 @@
+pip install djangorestframework
+pip install djangorestframework-simplejwt
+pip install django-filter
+pip install markdown
+pip install Pillow
+pip install django-parler
+pip install django-parler-rest
+pip install django-phonenumber-field[phonenumbers]
+pip install django-cors-headers

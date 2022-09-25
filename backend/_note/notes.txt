@@ -1,0 +1,10 @@
+lookup_field HATA-ÇÖZÜM
+AssertionError: Expected view CustomerUserDetailAPIView to be called with a URL keyword argument named "user__username". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+URL: <user__username>
+VIEW: 'user__username'
+
+
+THINK
+1- Auto Brand ve Autopart CarBrand
+2- Order payment_method
+3- OrderCreate APIView if-else control

@@ -1,0 +1,643 @@
+[
+    {
+        "name":"Air conditioning-heating system/radiators",
+        "slug":"air-conditioning-heating-system-radiators",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Air conditioning (A/C)",
+        "slug":"air-conditioning-a-c",
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-heating-system-radiators"
+    },
+    {
+        "name":"A/C air flow flap actuator/motor",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"A/C compressor mount bracket",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"A/C cooling radiator (condenser)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"A/C flexible coupling/sleeve",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) air dryer",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) compressor (pump)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) expansion valve",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) pipe/hose",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) pressure sensor",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) radiator (interior)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning (A/C) system set",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Air conditioning compressor pulley",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Other air conditioning (A/C) parts",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-a-c"
+    },
+    {
+        "name":"Cabin air supply/heating",
+        "slug":"cabin-air-supply-heating",
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-heating-system-radiators"
+    },
+    {
+        "name":"Air flap cable",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Air flap motor/actuator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Air micro filter air duct channel part",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Cabin air duct channel",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Cabin air micro filter",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Cabin air micro filter cap",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Cabin air micro filter frame (part)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Cabin air micro filter set",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Electric cabin heater radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Heater blower motor/fan resistor",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Heater blower radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Heater control cables",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Heater fan/blower",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Heater radiator pipe/hose",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Interior heater 220V",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Interior heater climate box assembly",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Interior heater climate box assembly housing",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"cabin-air-supply-heating"
+    },
+    {
+        "name":"Engine cooling/heating",
+        "slug":"engine-cooling-heating",
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-heating-system-radiators"
+    },
+    {
+        "name":"Auxiliary pre-heater (Webasto)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Circulation pump for autonomous heater (webastos)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Coolant heater",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Coolant heater control valve",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Electric auxiliary coolant/water pump",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Electric engine pre-heating system (optional)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Engine coolant pipe/hose",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Thermostat",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Thermostat housing",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Thermostat/thermostat housing",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Water pump",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Water pump pulley",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Webasto auxiliary heater mount bracket",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Webasto auxiliary heater silencer",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"engine-cooling-heating"
+    },
+    {
+        "name":"Radiators/fans",
+        "slug":"radiators-fans",
+        "description":null,
+        "image":null,
+        "parent_slug":"air-conditioning-heating-system-radiators"
+    },
+
+    {
+        "name":"Air conditioning (A/C) fan (condenser)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Coolant expansion tank/reservoir",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Coolant expansion tank/reservoir cap",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Coolant level sensor",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Coolant radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Coolant temperature sensor",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Electric radiator cooling fan",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Engine oil radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Fan impeller",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Fan set",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Fuel cooler (radiator)",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Gearbox / Transmission oil cooler",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Gearbox oil cooler pipe/hose",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Intercooler air channel guide",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Intercooler radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Optional radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Power steering radiator",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Radiator cooling fan shroud",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Radiator mount bracket",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Radiator set",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Transmission/gearbox oil cooler",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Viscous fan",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    {
+        "name":"Viscous fan clutch",
+        "slug":null,
+        "description":null,
+        "image":null,
+        "parent_slug":"radiators-fans"
+    },
+    
+    
+    
+
+
+
+
+
+
+    {
+        "name":"Body/body parts/hook",
+        "slug":"body-body-parts-hook",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Brake system",
+        "slug":"brake-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Cabin/interior",
+        "slug":"cabin-interior",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Devices/switches/electronic system",
+        "slug":"devices-switches-electronic-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Door",
+        "slug":"door",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Engine",
+        "slug":"engine",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Exterior front body parts",
+        "slug":"exterior-front-body-parts",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Exterior rear body parts",
+        "slug":"exterior-rear-body-parts",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Front axle",
+        "slug":"front-axle",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Fuel mixture system",
+        "slug":"fuel-mixture-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Gas exhaust system",
+        "slug":"gas-exhaust-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Gearbox/clutch/transmission",
+        "slug":"gearbox-clutch-transmission",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Glass",
+        "slug":"glass",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Headlight/headlamp washing/cleaning system",
+        "slug":"headlight-headlamp-washing-cleaning-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Lighting system",
+        "slug":"lighting-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Other parts",
+        "slug":"other-parts",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Rear axle",
+        "slug":"rear-axle",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name":"Wheels/tires/caps",
+        "slug":"wheels-tires-caps",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    }
+    
+]

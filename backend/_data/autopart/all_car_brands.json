@@ -1,0 +1,494 @@
+[
+  {
+    "name": "ALFA ROMEO",
+    "slug": "alfa-romeo",
+    "code": "ALF1",
+    "image_path": "ALFA ROMEO.png"
+  },
+  {
+    "name": "ASTON MARTIN",
+    "slug": "aston-martin",
+    "code": "AST2",
+    "image_path": null
+  },
+  {
+    "name": "AUDI",
+    "slug": "audi",
+    "code": "AUD3",
+    "image_path": "AUDI.png"
+  },
+  {
+    "name": "BMC",
+    "slug": "bmc",
+    "code": "BMC4",
+    "image_path": null
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "code": "BMW5",
+    "image_path": "BMW.png"
+  },
+  {
+    "name": "BOVA",
+    "slug": "bova",
+    "code": "BOV6",
+    "image_path": null
+  },
+  {
+    "name": "BUCHER",
+    "slug": "bucher",
+    "code": "BUC7",
+    "image_path": null
+  },
+  {
+    "name": "CHEVROLET",
+    "slug": "chevrolet",
+    "code": "CHE8",
+    "image_path": "CHEVROLET.png"
+  },
+  {
+    "name": "CHRYSLER",
+    "slug": "chrysler",
+    "code": "CHR9",
+    "image_path": "CHRYSLER.png"
+  },
+  {
+    "name": "CITROEN",
+    "slug": "citroen",
+    "code": "CIT10",
+    "image_path": "CITROEN.png"
+  },
+  {
+    "name": "DACIA",
+    "slug": "dacia",
+    "code": "DAC11",
+    "image_path": null
+  },
+  {
+    "name": "DAEWOO",
+    "slug": "daewoo",
+    "code": "DAE12",
+    "image_path": null
+  },
+  {
+    "name": "DAF",
+    "slug": "daf",
+    "code": "DAF13",
+    "image_path": null
+  },
+  {
+    "name": "DAIHATSU",
+    "slug": "daihatsu",
+    "code": "DAI14",
+    "image_path": null
+  },
+  {
+    "name": "DENNIS",
+    "slug": "dennis",
+    "code": "DEN15",
+    "image_path": null
+  },
+  {
+    "name": "DODGE",
+    "slug": "dodge",
+    "code": "DOD16",
+    "image_path": "DODGE.png"
+  },
+  {
+    "name": "ERF",
+    "slug": "erf",
+    "code": "ERF17",
+    "image_path": null
+  },
+  {
+    "name": "EVOBUS",
+    "slug": "evobus",
+    "code": "EVO18",
+    "image_path": null
+  },
+  {
+    "name": "FERRARI",
+    "slug": "ferrari",
+    "code": "FER19",
+    "image_path": null
+  },
+  {
+    "name": "FIAT",
+    "slug": "fiat",
+    "code": "FIA20",
+    "image_path": "FIAT.png"
+  },
+  {
+    "name": "FORD",
+    "slug": "ford",
+    "code": "FOR21",
+    "image_path": "FORD.png"
+  },
+  {
+    "name": "FREIGHTLINER",
+    "slug": "freightliner",
+    "code": "FRE22",
+    "image_path": null
+  },
+  {
+    "name": "GM",
+    "slug": "gm",
+    "code": "GM23",
+    "image_path": null
+  },
+  {
+    "name": "GMC",
+    "slug": "gmc",
+    "code": "GMC24",
+    "image_path": null
+  },
+  {
+    "name": "GROVE",
+    "slug": "grove",
+    "code": "GRO25",
+    "image_path": null
+  },
+  {
+    "name": "HONDA",
+    "slug": "honda",
+    "code": "HON26",
+    "image_path": null
+  },
+  {
+    "name": "HYUNDAI",
+    "slug": "hyundai",
+    "code": "HYU27",
+    "image_path": "HYUNDAI.png"
+  },
+  {
+    "name": "INFINITI",
+    "slug": "infiniti",
+    "code": "INF28",
+    "image_path": null
+  },
+  {
+    "name": "ISUZU",
+    "slug": "isuzu",
+    "code": "ISU29",
+    "image_path": null
+  },
+  {
+    "name": "IVECO",
+    "slug": "iveco",
+    "code": "IVE30",
+    "image_path": null
+  },
+  {
+    "name": "JAGUAR",
+    "slug": "jaguar",
+    "code": "JAG31",
+    "image_path": null
+  },
+  {
+    "name": "JCB",
+    "slug": "jcb",
+    "code": "JCB32",
+    "image_path": null
+  },
+  {
+    "name": "JEEP",
+    "slug": "jeep",
+    "code": "JEE33",
+    "image_path": null
+  },
+  {
+    "name": "KAWASAKI",
+    "slug": "kawasaki",
+    "code": "KAW34",
+    "image_path": null
+  },
+  {
+    "name": "KIA",
+    "slug": "kia",
+    "code": "KIA35",
+    "image_path": null
+  },
+  {
+    "name": "LADA",
+    "slug": "lada",
+    "code": "LAD36",
+    "image_path": null
+  },
+  {
+    "name": "LAMBORGHINI",
+    "slug": "lamborghini",
+    "code": "LAM37",
+    "image_path": null
+  },
+  {
+    "name": "LANCIA",
+    "slug": "lancia",
+    "code": "LAN38",
+    "image_path": "LANCIA.png"
+  },
+  {
+    "name": "LAND ROVER",
+    "slug": "land-rover",
+    "code": "LAN39",
+    "image_path": "LAND ROVER.png"
+  },
+  {
+    "name": "LIEBHERR",
+    "slug": "liebherr",
+    "code": "LIE40",
+    "image_path": null
+  },
+  {
+    "name": "LOMBARDINI",
+    "slug": "lombardini",
+    "code": "LOM41",
+    "image_path": null
+  },
+  {
+    "name": "MAN",
+    "slug": "man",
+    "code": "MAN42",
+    "image_path": "MAN.png"
+  },
+  {
+    "name": "MANITOU",
+    "slug": "manitou",
+    "code": "MAN43",
+    "image_path": null
+  },
+  {
+    "name": "MASERATI",
+    "slug": "maserati",
+    "code": "MAS44",
+    "image_path": null
+  },
+  {
+    "name": "MASSEY FERGUSON",
+    "slug": "massey-ferguson",
+    "code": "MAS45",
+    "image_path": null
+  },
+  {
+    "name": "MAZDA",
+    "slug": "mazda",
+    "code": "MAZ46",
+    "image_path": null
+  },
+  {
+    "name": "MERCEDES",
+    "slug": "mercedes",
+    "code": "MER47",
+    "image_path": "MERCEDES.png"
+  },
+  {
+    "name": "MINI",
+    "slug": "mini",
+    "code": "MIN48",
+    "image_path": null
+  },
+  {
+    "name": "MITSUBISHI",
+    "slug": "mitsubishi",
+    "code": "MIT49",
+    "image_path": null
+  },
+  {
+    "name": "NEOPLAN",
+    "slug": "neoplan",
+    "code": "NEO50",
+    "image_path": null
+  },
+  {
+    "name": "NISSAN",
+    "slug": "nissan",
+    "code": "NIS51",
+    "image_path": null
+  },
+  {
+    "name": "OPEL",
+    "slug": "opel",
+    "code": "OPE52",
+    "image_path": "OPEL.png"
+  },
+  {
+    "name": "PERKINS",
+    "slug": "perkins",
+    "code": "PER53",
+    "image_path": null
+  },
+  {
+    "name": "PEUGEOT",
+    "slug": "peugeot",
+    "code": "PEU54",
+    "image_path": "PEUGEOT.png"
+  },
+  {
+    "name": "PORSCHE",
+    "slug": "porsche",
+    "code": "POR55",
+    "image_path": "PORSCHE.png"
+  },
+  {
+    "name": "PROTON",
+    "slug": "proton",
+    "code": "PRO56",
+    "image_path": null
+  },
+  {
+    "name": "RENAULT",
+    "slug": "renault",
+    "code": "REN57",
+    "image_path": "RENAULT.png"
+  },
+  {
+    "name": "ROLLS-ROYCE",
+    "slug": "rolls-royce",
+    "code": "ROL58",
+    "image_path": null
+  },
+  {
+    "name": "ROVER",
+    "slug": "rover",
+    "code": "ROV59",
+    "image_path": "ROVER.png"
+  },
+  {
+    "name": "SAAB",
+    "slug": "saab",
+    "code": "SAA60",
+    "image_path": null
+  },
+  {
+    "name": "SCANIA",
+    "slug": "scania",
+    "code": "SCA61",
+    "image_path": null
+  },
+  {
+    "name": "SEAT",
+    "slug": "seat",
+    "code": "SEA62",
+    "image_path": null
+  },
+  {
+    "name": "SISU",
+    "slug": "sisu",
+    "code": "SIS63",
+    "image_path": null
+  },
+  {
+    "name": "SKODA",
+    "slug": "skoda",
+    "code": "SKO64",
+    "image_path": null
+  },
+  {
+    "name": "SMART",
+    "slug": "smart",
+    "code": "SMA65",
+    "image_path": "SMART.png"
+  },
+  {
+    "name": "SNF",
+    "slug": "snf",
+    "code": "SNF66",
+    "image_path": null
+  },
+  {
+    "name": "SOLO",
+    "slug": "solo",
+    "code": "SOL67",
+    "image_path": null
+  },
+  {
+    "name": "SSANGYONG",
+    "slug": "ssangyong",
+    "code": "SSA68",
+    "image_path": null
+  },
+  {
+    "name": "SUBARU",
+    "slug": "subaru",
+    "code": "SUB69",
+    "image_path": "SUBARU.png"
+  },
+  {
+    "name": "SUZUKI",
+    "slug": "suzuki",
+    "code": "SUZ70",
+    "image_path": null
+  },
+  {
+    "name": "TATA",
+    "slug": "tata",
+    "code": "TAT71",
+    "image_path": null
+  },
+  {
+    "name": "TATRA",
+    "slug": "tatra",
+    "code": "TAT72",
+    "image_path": null
+  },
+  {
+    "name": "TOFAS",
+    "slug": "tofas",
+    "code": "TOF73",
+    "image_path": null
+  },
+  {
+    "name": "TOYOTA",
+    "slug": "toyota",
+    "code": "TOY74",
+    "image_path": null
+  },
+  {
+    "name": "UNIVERSAL",
+    "slug": "universal",
+    "code": "UNI75",
+    "image_path": null
+  },
+  {
+    "name": "VAG",
+    "slug": "vag",
+    "code": "VAG76",
+    "image_path": null
+  },
+  {
+    "name": "VAUXHALL",
+    "slug": "vauxhall",
+    "code": "VAU77",
+    "image_path": null
+  },
+  {
+    "name": "VISEON",
+    "slug": "viseon",
+    "code": "VIS78",
+    "image_path": null
+  },
+  {
+    "name": "VM",
+    "slug": "vm",
+    "code": "VM79",
+    "image_path": null
+  },
+  {
+    "name": "VOLKSWAGEN",
+    "slug": "volkswagen",
+    "code": "VOL80",
+    "image_path": "VOLKSWAGEN.png"
+  },
+  {
+    "name": "VOLVO",
+    "slug": "volvo",
+    "code": "VOL81",
+    "image_path": "VOLVO.png"
+  },
+  {
+    "name": "YAMAHA",
+    "slug": "yamaha",
+    "code": "YAM82",
+    "image_path": null
+  }
+]

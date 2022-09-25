@@ -1,0 +1,31 @@
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+python manage.py makemigrations
+python manage.py migrate
+
+pyhton manage.py createsuperuser
+
+ACCOUNT
+python manage.py add_supplier [email] [password] [company_name] [code]
+python manage.py add_supplier mercanlar@gmail.com Berke1919*- Mercanlar MERC
+
+WORLD
+python manage.py add_countries
+
+AUTO
+python manage.py add_brands
+python manage.py add_series
+python manage.py add_models
+python manage.py add_specification_types
+python manage.py add_specifications
+python manage.py add_cars
+
+AUTOPART
+python manage.py add_manufacturers
+python manage.py add_car_brands
+python manage.py add_products
+
+GLOSSARY
+python manage.py add_glossary

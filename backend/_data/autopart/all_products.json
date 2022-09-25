@@ -1,0 +1,6594 @@
+[
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06A919501A",
+    "manufacturer_code": "E-330546",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06A919501A ERA",
+    "description": "HARARET MÜŞÜRÜ CADDYI T5 PASSAT (SİYAH)",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 4.34,
+    "gross_price_lira": 79.22,
+    "net_price_lira": 60.21,
+    "kdv_net_price_lira": 71.04,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "357919501A",
+    "manufacturer_code": "E-330116",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "357919501A ERA",
+    "description": "HARARET MÜŞÜRÜ POLO HB.-CLS,GOLFIII MAVİ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 5.12,
+    "gross_price_lira": 93.36,
+    "net_price_lira": 70.95,
+    "kdv_net_price_lira": 83.73,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "en-route",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "en-route",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06A906433L",
+    "manufacturer_code": "E-550123A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06A906433L ERA",
+    "description": "KRANK SENSÖRÜ GOLF JETTA BSE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 8.53,
+    "gross_price_lira": 155.6,
+    "net_price_lira": 118.26,
+    "kdv_net_price_lira": 139.54,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "038906051C",
+    "manufacturer_code": "E-550265A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "038906051C ERA",
+    "description": "BASINÇ SENSÖRÜ 2,0/2,5 TDI",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 10.55,
+    "gross_price_lira": 192.38,
+    "net_price_lira": 146.21,
+    "kdv_net_price_lira": 172.53,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "1J0907660B",
+    "manufacturer_code": "E-550885A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "1J0907660B ERA",
+    "description": "YAĞ SEVİYE SENSÖRÜ T4 PASSAT POLO",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 17.37,
+    "gross_price_lira": 316.86,
+    "net_price_lira": 240.81,
+    "kdv_net_price_lira": 284.16,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "076906433",
+    "manufacturer_code": "E-551263A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "076906433 ERA",
+    "description": "EKSANTRİK SENSÖRÜ CADDY/CRAFTER BJM/BJB",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 15.82,
+    "gross_price_lira": 288.57,
+    "net_price_lira": 219.31,
+    "kdv_net_price_lira": 258.79,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "04E905110",
+    "manufacturer_code": "E-880339A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "04E905110 ERA",
+    "description": "ATEŞLEME BOBİNİ 1,2-1,4 TSI CJZA CXSA 13>",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 25.59,
+    "gross_price_lira": 466.81,
+    "net_price_lira": 354.78,
+    "kdv_net_price_lira": 418.64,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06A905115B",
+    "manufacturer_code": "E-880007A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06A905115B ERA",
+    "description": "ATEŞLEME BOBİNİ PASSAT 1.8T AWT",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 13.96,
+    "gross_price_lira": 254.62,
+    "net_price_lira": 193.51,
+    "kdv_net_price_lira": 228.34,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "3C0927225CREH",
+    "manufacturer_code": "E-662333",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "3C0927225CREH ERA",
+    "description": "EL FREN DÜĞMESİ PARK DÜĞMESİ PASSAT 04>",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 10.08,
+    "gross_price_lira": 183.89,
+    "net_price_lira": 139.76,
+    "kdv_net_price_lira": 164.91,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "701819809G",
+    "manufacturer_code": "E-559103A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "701819809G ERA",
+    "description": "VAKUM VALFİ LT 35 CRAFTER 2,5 BJK",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 20.97,
+    "gross_price_lira": 382.48,
+    "net_price_lira": 290.68,
+    "kdv_net_price_lira": 343.01,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "074906461B",
+    "manufacturer_code": "E-558073A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "074906461B ERA",
+    "description": "HAVA AKIŞMETRE GOLF IV TDİ,LT35 AHD",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 45.91,
+    "gross_price_lira": 837.42,
+    "net_price_lira": 636.44,
+    "kdv_net_price_lira": 751.0,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "078919501B",
+    "manufacturer_code": "E-330497",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "078919501B ERA",
+    "description": "HARARET MÜŞÜRÜ GOLF IV PASSAT POLO",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 4.19,
+    "gross_price_lira": 76.39,
+    "net_price_lira": 58.06,
+    "kdv_net_price_lira": 68.51,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06A906461B",
+    "manufacturer_code": "E-558012A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06A906461B ERA",
+    "description": "HAVA AKIŞMETRE GOLF BORA AKL/BFQ/ALZ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 48.85,
+    "gross_price_lira": 891.18,
+    "net_price_lira": 677.3,
+    "kdv_net_price_lira": 799.21,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "6Q0919050A",
+    "manufacturer_code": "E-770053A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "6Q0919050A ERA",
+    "description": "YAKIT POMPASI ŞAMANDIRALI POLO AMF",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 53.04,
+    "gross_price_lira": 967.57,
+    "net_price_lira": 735.35,
+    "kdv_net_price_lira": 867.72,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "1J0907660C",
+    "manufacturer_code": "E-550886A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "1J0907660C ERA",
+    "description": "YAĞ SEVİYE SENSÖRÜ CADDY III/GOLF V",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 27.76,
+    "gross_price_lira": 506.42,
+    "net_price_lira": 384.88,
+    "kdv_net_price_lira": 454.16,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "8Z0820535",
+    "manufacturer_code": "E-551343A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "8Z0820535 ERA",
+    "description": "DIŞ SICAKLIK SENSÖRÜ GOLF PASSAT CADDY",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 4.19,
+    "gross_price_lira": 76.39,
+    "net_price_lira": 58.06,
+    "kdv_net_price_lira": 68.51,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "038957147F",
+    "manufacturer_code": "E-550102A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "038957147F ERA",
+    "description": "KRANK SENSORU T5 PASSAT 1,9 AXB/AVF",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 11.17,
+    "gross_price_lira": 203.7,
+    "net_price_lira": 154.81,
+    "kdv_net_price_lira": 182.68,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06A906433C",
+    "manufacturer_code": "E-550109A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06A906433C ERA",
+    "description": "KRANK DEVİR SENSÖRÜ GOLF BORA",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 9.0,
+    "gross_price_lira": 164.09,
+    "net_price_lira": 124.71,
+    "kdv_net_price_lira": 147.16,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "038919081B",
+    "manufacturer_code": "E-330321",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "038919081B ERA",
+    "description": "YAĞ BASINÇ MÜŞÜRÜ  CADDYII SUPERB",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 2.17,
+    "gross_price_lira": 39.61,
+    "net_price_lira": 30.1,
+    "kdv_net_price_lira": 35.52,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "075906433C",
+    "manufacturer_code": "E-551094A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "075906433C ERA",
+    "description": "KRANK DEVİR SENSÖRÜ T4/LT35",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 14.73,
+    "gross_price_lira": 268.77,
+    "net_price_lira": 204.27,
+    "kdv_net_price_lira": 241.03,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "038919081K",
+    "manufacturer_code": "E-330325",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "038919081K ERA",
+    "description": "YAĞ BASINÇ MÜŞÜRÜ GOLF BORA JETTA PASSAT C",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 2.56,
+    "gross_price_lira": 46.68,
+    "net_price_lira": 35.48,
+    "kdv_net_price_lira": 41.86,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06E907660",
+    "manufacturer_code": "E-550887A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06E907660 ERA",
+    "description": "YAĞ SEVİYE SENSÖRÜ GOLFV VI/PASSAT/CRAFTER 06>",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 26.21,
+    "gross_price_lira": 478.12,
+    "net_price_lira": 363.37,
+    "kdv_net_price_lira": 428.78,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "070907601B",
+    "manufacturer_code": "E-550026A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "070907601B ERA",
+    "description": "EKSANTRİK SENSÖRÜ T5 2,5 AXD",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 13.49,
+    "gross_price_lira": 246.13,
+    "net_price_lira": 187.06,
+    "kdv_net_price_lira": 220.73,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06C905163B",
+    "manufacturer_code": "E-550027A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06C905163B ERA",
+    "description": "EKS MİLİ SENSÖRÜ A4 PASSAT A3",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 13.96,
+    "gross_price_lira": 254.62,
+    "net_price_lira": 193.51,
+    "kdv_net_price_lira": 228.34,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "06B905163A",
+    "manufacturer_code": "E-550028A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "06B905163A ERA",
+    "description": "EKSANTRİK DEVİR SENSÖRÜ GOLF BFQ/BSE/ALZ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 9.46,
+    "gross_price_lira": 172.58,
+    "net_price_lira": 131.16,
+    "kdv_net_price_lira": 154.77,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "030907601E",
+    "manufacturer_code": "E-550120A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "030907601E ERA",
+    "description": "EKSANTRİK DEVİR SENSÖRÜ GOLF 1,6 FSI",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 12.41,
+    "gross_price_lira": 226.33,
+    "net_price_lira": 172.01,
+    "kdv_net_price_lira": 202.97,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "03C906051F",
+    "manufacturer_code": "E-550570A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "03C906051F ERA",
+    "description": "BASINÇ SENSÖRÜ T6 2,0 TDI /1,6 FSI",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 11.63,
+    "gross_price_lira": 212.19,
+    "net_price_lira": 161.26,
+    "kdv_net_price_lira": 190.29,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "076906051A",
+    "manufacturer_code": "E-550704A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "076906051A ERA",
+    "description": "BASINÇ SENSÖRÜ CRAFTER 2,5 PASSAT 1,9",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 15.66,
+    "gross_price_lira": 285.74,
+    "net_price_lira": 217.16,
+    "kdv_net_price_lira": 256.25,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "03G957147C",
+    "manufacturer_code": "E-551239A",
+    "product_image_url": null,
+    "manufacturer": "ERA",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/ERA.png",
+    "car_brand": "AUDI",
+    "recital_no": "03G957147C ERA",
+    "description": "EKSANTRİK SENSÖRÜ PASSAT JETTA 2,0 TDI",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 18.61,
+    "gross_price_lira": 339.5,
+    "net_price_lira": 258.02,
+    "kdv_net_price_lira": 304.46,
+    "iskonto": "%20+5",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0039909497",
+    "manufacturer_code": "A0039909497",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0039909497",
+    "description": "PERÇİN",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 2.12,
+    "gross_price_lira": 38.7,
+    "net_price_lira": 30.96,
+    "kdv_net_price_lira": 36.53,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A20199002929051",
+    "manufacturer_code": "A20199002929051",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A20199002929051",
+    "description": "GEÇME",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.32,
+    "gross_price_lira": 24.09,
+    "net_price_lira": 19.27,
+    "kdv_net_price_lira": 22.74,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A1249900492",
+    "manufacturer_code": "A1249900492",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A1249900492",
+    "description": "GEÇME",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 2.62,
+    "gross_price_lira": 47.82,
+    "net_price_lira": 38.26,
+    "kdv_net_price_lira": 45.14,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0059976290",
+    "manufacturer_code": "A0059976290",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0059976290",
+    "description": "KELEPÇE",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.43,
+    "gross_price_lira": 26.1,
+    "net_price_lira": 20.88,
+    "kdv_net_price_lira": 24.64,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2019900204",
+    "manufacturer_code": "A2019900204",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2019900204",
+    "description": "CİVATA",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.97,
+    "gross_price_lira": 35.96,
+    "net_price_lira": 28.77,
+    "kdv_net_price_lira": 33.95,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0019880325",
+    "manufacturer_code": "A0019880325",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0019880325",
+    "description": "DUBEL",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 4.2,
+    "gross_price_lira": 76.66,
+    "net_price_lira": 61.33,
+    "kdv_net_price_lira": 72.37,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "N007603012110",
+    "manufacturer_code": "N007603012110",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "N007603012110",
+    "description": "CONTA",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.16,
+    "gross_price_lira": 21.17,
+    "net_price_lira": 16.94,
+    "kdv_net_price_lira": 19.98,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İŞ ORTAĞI"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "N000000001476",
+    "manufacturer_code": "N000000001476",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "N000000001476",
+    "description": "SOMUN",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 0.94,
+    "gross_price_lira": 17.16,
+    "net_price_lira": 13.73,
+    "kdv_net_price_lira": 16.2,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      },
+      {
+        "status": "critical",
+        "location": "İŞ ORTAĞI"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0019978686",
+    "manufacturer_code": "A0019978686",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0019978686",
+    "description": "GEÇME DS-171",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.16,
+    "gross_price_lira": 21.17,
+    "net_price_lira": 16.94,
+    "kdv_net_price_lira": 19.98,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A271150273365",
+    "manufacturer_code": "A271150273365",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A271150273365",
+    "description": "EKSANTRİK MİL AYAR KABLOSU",
+    "rg": "89",
+    "currency": "€",
+    "currency_price": 43.37,
+    "gross_price_lira": 791.25,
+    "net_price_lira": 609.26,
+    "kdv_net_price_lira": 718.93,
+    "iskonto": "%23",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2740940004",
+    "manufacturer_code": "A2740940004",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2740940004",
+    "description": "HAVA FİLTRESİ 274 212/205/204",
+    "rg": "07",
+    "currency": "€",
+    "currency_price": 28.07,
+    "gross_price_lira": 511.98,
+    "net_price_lira": 445.42,
+    "kdv_net_price_lira": 299.86,
+    "iskonto": "%13",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2098170020",
+    "manufacturer_code": "A2098170020",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2098170020",
+    "description": "ETİKET",
+    "rg": "18",
+    "currency": "€",
+    "currency_price": 28.73,
+    "gross_price_lira": 524.03,
+    "net_price_lira": 445.43,
+    "kdv_net_price_lira": 9.99,
+    "iskonto": "%15",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2019900292",
+    "manufacturer_code": "A2019900292",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2019900292",
+    "description": "PERCIN",
+    "rg": "01",
+    "currency": "€",
+    "currency_price": 0.1,
+    "gross_price_lira": 1.83,
+    "net_price_lira": 1.45,
+    "kdv_net_price_lira": 1.71,
+    "iskonto": "%21",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A000989790613ABDE",
+    "manufacturer_code": "A000989790613ABDE",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A000989790613ABDE",
+    "description": "228.51 5W-30  5 LT",
+    "rg": "82",
+    "currency": "€",
+    "currency_price": 44.95,
+    "gross_price_lira": 820.08,
+    "net_price_lira": 467.45,
+    "kdv_net_price_lira": 551.59,
+    "iskonto": "%43",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0009881878",
+    "manufacturer_code": "A0009881878",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0009881878",
+    "description": "SEGMAN",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.92,
+    "gross_price_lira": 35.04,
+    "net_price_lira": 28.03,
+    "kdv_net_price_lira": 33.08,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İŞ ORTAĞI"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A12499005929051",
+    "manufacturer_code": "A12499005929051",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A12499005929051",
+    "description": "PERCIN",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.93,
+    "gross_price_lira": 35.23,
+    "net_price_lira": 28.18,
+    "kdv_net_price_lira": 33.26,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2701590600",
+    "manufacturer_code": "A2701590600",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2701590600",
+    "description": "BUJİ",
+    "rg": "30",
+    "currency": "€",
+    "currency_price": 10.3,
+    "gross_price_lira": 187.82,
+    "net_price_lira": 144.62,
+    "kdv_net_price_lira": 170.65,
+    "iskonto": "%23",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A271200155264",
+    "manufacturer_code": "A271200155264",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A271200155264",
+    "description": "HORTUM",
+    "rg": "89",
+    "currency": "€",
+    "currency_price": 43.37,
+    "gross_price_lira": 791.25,
+    "net_price_lira": 609.26,
+    "kdv_net_price_lira": 718.93,
+    "iskonto": "%23",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2109880042",
+    "manufacturer_code": "A2109880042",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2109880042",
+    "description": "GEÇME DS-168",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.71,
+    "gross_price_lira": 31.21,
+    "net_price_lira": 24.97,
+    "kdv_net_price_lira": 29.46,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0049941745",
+    "manufacturer_code": "A0049941745",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0049941745",
+    "description": "SEKMAN",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.92,
+    "gross_price_lira": 35.04,
+    "net_price_lira": 28.03,
+    "kdv_net_price_lira": 33.08,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0049903512",
+    "manufacturer_code": "A0049903512",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0049903512",
+    "description": "CİVATA",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 2.26,
+    "gross_price_lira": 41.23,
+    "net_price_lira": 32.98,
+    "kdv_net_price_lira": 38.92,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A1249900092",
+    "manufacturer_code": "A1249900092",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A1249900092",
+    "description": "GEÇME",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.16,
+    "gross_price_lira": 21.16,
+    "net_price_lira": 16.93,
+    "kdv_net_price_lira": 19.98,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0029909503",
+    "manufacturer_code": "A0029909503",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0029909503",
+    "description": "DISTANALTILI AGIZLICIVATA",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.69,
+    "gross_price_lira": 30.83,
+    "net_price_lira": 24.66,
+    "kdv_net_price_lira": 29.1,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0008171016",
+    "manufacturer_code": "A0008171016",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0008171016",
+    "description": "YILDIZ",
+    "rg": "18",
+    "currency": "€",
+    "currency_price": 59.09,
+    "gross_price_lira": 1077.94,
+    "net_price_lira": 916.25,
+    "kdv_net_price_lira": 1081.17,
+    "iskonto": "%15",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      },
+      {
+        "status": "critical",
+        "location": "İŞ ORTAĞI"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A2740703500",
+    "manufacturer_code": "A2740703500",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A2740703500",
+    "description": "YAKIT HORTUMU",
+    "rg": "89",
+    "currency": "€",
+    "currency_price": 22.44,
+    "gross_price_lira": 409.36,
+    "net_price_lira": 315.21,
+    "kdv_net_price_lira": 371.94,
+    "iskonto": "%23",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "en-route",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0019884981",
+    "manufacturer_code": "A0019884981",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0019884981",
+    "description": "GEÇME",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.74,
+    "gross_price_lira": 31.74,
+    "net_price_lira": 25.39,
+    "kdv_net_price_lira": 29.96,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A6111800043",
+    "manufacturer_code": "A6111800043",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A6111800043",
+    "description": "YAG FİSKİYESİ",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 6.46,
+    "gross_price_lira": 117.85,
+    "net_price_lira": 94.28,
+    "kdv_net_price_lira": 111.25,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A0009902407",
+    "manufacturer_code": "A0009902407",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A0009902407",
+    "description": "BİJON",
+    "rg": "20",
+    "currency": "€",
+    "currency_price": 1.99,
+    "gross_price_lira": 36.3,
+    "net_price_lira": 29.04,
+    "kdv_net_price_lira": 34.27,
+    "iskonto": "%20",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "A1685452928",
+    "manufacturer_code": "A1685452928",
+    "product_image_url": null,
+    "manufacturer": "ORİJİNAL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MERCEDES.png",
+    "car_brand": "MERCEDES",
+    "recital_no": "A1685452928",
+    "description": "SOKET",
+    "rg": "16",
+    "currency": "€",
+    "currency_price": 3.82,
+    "gross_price_lira": 69.69,
+    "net_price_lira": 60.63,
+    "kdv_net_price_lira": 71.54,
+    "iskonto": "%13",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11427640862",
+    "manufacturer_code": "HU 816 z KIT",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11427640862 MAN",
+    "description": "YAĞ FİLTRESİ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 10.34,
+    "gross_price_lira": 188.64,
+    "net_price_lira": 113.18,
+    "kdv_net_price_lira": 122.87,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11428575211",
+    "manufacturer_code": "HU 6014/1 z",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11428575211 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 17.31,
+    "gross_price_lira": 315.82,
+    "net_price_lira": 189.49,
+    "kdv_net_price_lira": 205.71,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11427635557",
+    "manufacturer_code": "HU 7003 x",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11427635557 MAN",
+    "description": "YAĞ FİLTRESİ F20/21/30/35/80/31",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 9.04,
+    "gross_price_lira": 164.91,
+    "net_price_lira": 98.95,
+    "kdv_net_price_lira": 107.42,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11428593186",
+    "manufacturer_code": "HU 6012 z KIT",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11428593186 MAN",
+    "description": "YAĞ FİLTRESİ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 12.89,
+    "gross_price_lira": 235.16,
+    "net_price_lira": 141.1,
+    "kdv_net_price_lira": 153.17,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11428570590",
+    "manufacturer_code": "HU 6015 Z KIT",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11428570590 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 14.1,
+    "gross_price_lira": 257.18,
+    "net_price_lira": 154.31,
+    "kdv_net_price_lira": 167.52,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "en-route",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "LR011593",
+    "manufacturer_code": "C 35 126",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "LR011593 MAN",
+    "description": "HAVA FİLTRESİ R.ROVER SPORT Y.M. 3.0/4.4/5.0",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 23.62,
+    "gross_price_lira": 430.83,
+    "net_price_lira": 258.5,
+    "kdv_net_price_lira": 280.63,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13718518111",
+    "manufacturer_code": "C 37 009",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13718518111 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 35.89,
+    "gross_price_lira": 654.74,
+    "net_price_lira": 392.84,
+    "kdv_net_price_lira": 426.47,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "LR030778",
+    "manufacturer_code": "HU 711/51 x",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "LR030778 MAN",
+    "description": "YAĞ FİLTRESİ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 5.54,
+    "gross_price_lira": 101.07,
+    "net_price_lira": 60.64,
+    "kdv_net_price_lira": 65.83,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717582908",
+    "manufacturer_code": "C 27 125",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717582908 MAN",
+    "description": "HAVA FİLTRESİ F10/18/11 E84/89/",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 19.93,
+    "gross_price_lira": 363.49,
+    "net_price_lira": 218.09,
+    "kdv_net_price_lira": 236.76,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717800151MAN",
+    "manufacturer_code": "C 51 001",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717800151 MAN",
+    "description": "HAVA FİLTRESİ F01/F10 N47N",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 40.89,
+    "gross_price_lira": 745.99,
+    "net_price_lira": 447.59,
+    "kdv_net_price_lira": 485.91,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13328511053",
+    "manufacturer_code": "WK 5005/1 z",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13328511053 MAN",
+    "description": "YAKIT FİLTRESİ ALPINA F30/31/32/33 3.0 BITURBO",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 35.32,
+    "gross_price_lira": 644.24,
+    "net_price_lira": 386.54,
+    "kdv_net_price_lira": 419.63,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11427508969",
+    "manufacturer_code": "HU 815/2 X",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11427508969 MAN",
+    "description": "YAĞ FİLTRESİ N-40/42/46",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 6.36,
+    "gross_price_lira": 115.98,
+    "net_price_lira": 69.59,
+    "kdv_net_price_lira": 75.54,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11428507683",
+    "manufacturer_code": "HU 6004 X",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11428507683 MAN",
+    "description": "YAĞ FİLTRESİ N47N",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 13.07,
+    "gross_price_lira": 238.42,
+    "net_price_lira": 143.05,
+    "kdv_net_price_lira": 155.3,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717811026",
+    "manufacturer_code": "C 36 014",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717811026 MAN",
+    "description": "HAVA FİLTRESİ F25/E70/71",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 44.05,
+    "gross_price_lira": 803.55,
+    "net_price_lira": 482.13,
+    "kdv_net_price_lira": 523.4,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "1311289",
+    "manufacturer_code": "HU 934/1 x",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "1311289 MAN",
+    "description": "YAĞ FİLT.PE 607 2,7 HDI 24 V 04/-DİSCOVERY III 2",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 12.27,
+    "gross_price_lira": 223.75,
+    "net_price_lira": 134.25,
+    "kdv_net_price_lira": 145.74,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717521033",
+    "manufacturer_code": "C 30 139",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717521033 MAN",
+    "description": "HAVA FİLTRESİ M 54 E 60/61/63/64",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 21.02,
+    "gross_price_lira": 383.46,
+    "net_price_lira": 230.08,
+    "kdv_net_price_lira": 249.77,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13712247444",
+    "manufacturer_code": "C 15 143/1",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13712247444 MAN",
+    "description": "HAVA FİLTRESİ ALPINA E39 3.0 BITURBO",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 24.15,
+    "gross_price_lira": 440.5,
+    "net_price_lira": 264.3,
+    "kdv_net_price_lira": 286.92,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "LR036369",
+    "manufacturer_code": "CUK 1919",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "LR036369 MAN",
+    "description": "POLEN FİLİTRESİ R.ROVER SPORT 3,0D 13>",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 15.4,
+    "gross_price_lira": 280.99,
+    "net_price_lira": 168.59,
+    "kdv_net_price_lira": 183.03,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "64316945585",
+    "manufacturer_code": "CU 2941-2",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "64316945585 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 21.35,
+    "gross_price_lira": 389.43,
+    "net_price_lira": 233.66,
+    "kdv_net_price_lira": 253.66,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "PHE000112",
+    "manufacturer_code": "C 31 196",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "PHE000112 MAN",
+    "description": "HAVA FİLTRESİ DİSCOVERY III 4.0 V6/2.7 (TAA) IV (LA)3.0 TD/STDV6 RANGE IV (LG)3.0D SPORT (LS) 4.2/4.4/2.7D3.0D",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 16.48,
+    "gross_price_lira": 300.6,
+    "net_price_lira": 180.36,
+    "kdv_net_price_lira": 195.8,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "in-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11427512301",
+    "manufacturer_code": "HU 925/4 x",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11427512300 MAN",
+    "description": "YAĞ FİLTRESİ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 7.57,
+    "gross_price_lira": 138.08,
+    "net_price_lira": 82.85,
+    "kdv_net_price_lira": 89.94,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "ESR4103",
+    "manufacturer_code": "C 2874",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "ESR4103 MAN",
+    "description": "HAVA FİLTRESİ",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 11.1,
+    "gross_price_lira": 202.54,
+    "net_price_lira": 121.52,
+    "kdv_net_price_lira": 131.93,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "critical",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717601868",
+    "manufacturer_code": "C 30 013",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717601868 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 22.34,
+    "gross_price_lira": 407.52,
+    "net_price_lira": 244.51,
+    "kdv_net_price_lira": 265.44,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "critical",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13327793672",
+    "manufacturer_code": "WK 5001",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13327793672 MAN",
+    "description": "MAZOT FİLTRESİ M47N M57N",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 28.67,
+    "gross_price_lira": 522.94,
+    "net_price_lira": 313.76,
+    "kdv_net_price_lira": 340.62,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "in-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11427618461",
+    "manufacturer_code": "HU 8002 X KIT",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11427618461 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 9.29,
+    "gross_price_lira": 169.5,
+    "net_price_lira": 101.7,
+    "kdv_net_price_lira": 110.41,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "critical",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "PHE500020",
+    "manufacturer_code": "C 39 201",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "PHE500020 MAN",
+    "description": "HAVA FİLTRESİ LAND/RANGE III 4.2/4.4/.3.6D",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 17.52,
+    "gross_price_lira": 319.58,
+    "net_price_lira": 191.75,
+    "kdv_net_price_lira": 208.16,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "in-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "critical",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "critical",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717630911",
+    "manufacturer_code": "C 24 025",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717630911 MAN",
+    "description": "HAVA FİLTRESİ N-13/20/26/55 F-20/30/32",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 15.82,
+    "gross_price_lira": 288.6,
+    "net_price_lira": 173.16,
+    "kdv_net_price_lira": 187.98,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "critical",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "in-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "in-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "13717532754",
+    "manufacturer_code": "C 1361",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "13717532754 MAN",
+    "description": "HAVA FİLTRESİ E 87/90 1.18/.3.18/1.20/3.20",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 13.88,
+    "gross_price_lira": 253.28,
+    "net_price_lira": 151.97,
+    "kdv_net_price_lira": 164.98,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "out-of-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "in-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "critical",
+        "location": "MASLAK"
+      },
+      {
+        "status": "in-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "in-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "critical",
+        "location": "İZMİR"
+      },
+      {
+        "status": "critical",
+        "location": "ADANA"
+      },
+      {
+        "status": "critical",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "in-stock",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "critical",
+        "location": "SAMSUN"
+      }
+    ]
+  },
+  {
+    "supplier": "Mercanlar",
+    "oem_code": "11427837997",
+    "manufacturer_code": "HU 926/5 Z",
+    "product_image_url": null,
+    "manufacturer": "MANN-HUMMEL",
+    "manufacturer_image_url": "/Content/images/logos/product-brands/MANN-HUMMEL.png",
+    "car_brand": "BMW",
+    "recital_no": "11427837997 MAN",
+    "description": "FİLTRE",
+    "rg": "",
+    "currency": "€",
+    "currency_price": 16.16,
+    "gross_price_lira": 294.8,
+    "net_price_lira": 176.88,
+    "kdv_net_price_lira": 192.02,
+    "iskonto": "%40",
+    "stock_status": [
+      {
+        "status": "in-stock",
+        "location": "MERKEZ"
+      },
+      {
+        "status": "critical",
+        "location": "BOSTANCI"
+      },
+      {
+        "status": "critical",
+        "location": "KADOSAN"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "İKİTELLİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "MASLAK"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "TOPKAPI"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANKARA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "OSMANGAZİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "NİLÜFER"
+      },
+      {
+        "status": "in-stock",
+        "location": "İZMİR"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ADANA"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "ANTALYA"
+      },
+      {
+        "status": "critical",
+        "location": "KOCAELİ"
+      },
+      {
+        "status": "out-of-stock",
+        "location": "SAMSUN"
+      }
+    ]
+  }
+]

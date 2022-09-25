@@ -1,0 +1,31 @@
+- languages M2M Supplier API 
+- dj-rest-auth ?
+- NextJS
+- MultiLanguage
+- PostgreSQL
+- Fixtures
+- Docker
+- payment_method
+- realpython admin
+
+
+
+
+** REST FRAMEWORK **
+
+ACCOUNT
+Customer profile change x
+Supplier profile change x
+Supplier ekstra fields (ratings, comments..) x
+Email change (Ortak) x
+Password forgot (Ortak) x
+Supplier Change Phone x
+Customer add bank account x
+
+Customer Order List - Order Detail
+Supplier Order List(Sub Order)
+
+
+
+permissionslara bak çalış
+permissionslar yapılmadı order da onları yap

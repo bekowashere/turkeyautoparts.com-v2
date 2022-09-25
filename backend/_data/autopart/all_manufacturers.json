@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "ABA",
+    "slug": "aba",
+    "code": "ABA1",
+    "image_path": null
+  },
+  {
+    "name": "AIR FLOW",
+    "slug": "air-flow",
+    "code": "AIR2",
+    "image_path": null
+  },
+  {
+    "name": "AIRMATIC",
+    "slug": "airmatic",
+    "code": "AIR3",
+    "image_path": "AIRMATIC.png"
+  },
+  {
+    "name": "AKSAN",
+    "slug": "aksan",
+    "code": "AKS4",
+    "image_path": "AKSAN.png"
+  },
+  {
+    "name": "ALKAR",
+    "slug": "alkar",
+    "code": "ALK5",
+    "image_path": "ALKAR.png"
+  },
+  {
+    "name": "AMC",
+    "slug": "amc",
+    "code": "AMC6",
+    "image_path": "AMC.png"
+  },
+  {
+    "name": "AMK",
+    "slug": "amk",
+    "code": "AMK7",
+    "image_path": "AMK.png"
+  },
+  {
+    "name": "APP",
+    "slug": "app",
+    "code": "APP8",
+    "image_path": "APP.png"
+  },
+  {
+    "name": "ARIC",
+    "slug": "aric",
+    "code": "ARI9",
+    "image_path": null
+  },
+  {
+    "name": "ART",
+    "slug": "art",
+    "code": "ART10",
+    "image_path": null
+  },
+  {
+    "name": "ATE",
+    "slug": "ate",
+    "code": "ATE11",
+    "image_path": "ATE.png"
+  },
+  {
+    "name": "ATF",
+    "slug": "atf",
+    "code": "ATF12",
+    "image_path": "ATF.png"
+  },
+  {
+    "name": "AUTEX",
+    "slug": "autex",
+    "code": "AUT13",
+    "image_path": null
+  },
+  {
+    "name": "AVA",
+    "slug": "ava",
+    "code": "AVA14",
+    "image_path": "AVA.png"
+  },
+  {
+    "name": "AYFAR",
+    "slug": "ayfar",
+    "code": "AYF15",
+    "image_path": null
+  },
+  {
+    "name": "BARCHA",
+    "slug": "barcha",
+    "code": "BAR16",
+    "image_path": null
+  },
+  {
+    "name": "BEGEL",
+    "slug": "begel",
+    "code": "BEG17",
+    "image_path": "BEGEL.png"
+  },
+  {
+    "name": "BEHR",
+    "slug": "behr",
+    "code": "BEH18",
+    "image_path": "BEHR.png"
+  },
+  {
+    "name": "BEHR THERMO",
+    "slug": "behr-thermo",
+    "code": "BEH19",
+    "image_path": "BEHR THERMO.png"
+  },
+  {
+    "name": "BENPART",
+    "slug": "benpart",
+    "code": "BEN20",
+    "image_path": null
+  },
+  {
+    "name": "BERU",
+    "slug": "beru",
+    "code": "BER21",
+    "image_path": "BERU.png"
+  },
+  {
+    "name": "BE\u015eER",
+    "slug": "beser",
+    "code": "BE\u015e22",
+    "image_path": "BE\u015eER.png"
+  },
+  {
+    "name": "BF",
+    "slug": "bf",
+    "code": "BF23",
+    "image_path": "BF.png"
+  },
+  {
+    "name": "BILSTEIN",
+    "slug": "bilstein",
+    "code": "BIL24",
+    "image_path": "BILSTEIN.png"
+  },
+  {
+    "name": "BMS",
+    "slug": "bms",
+    "code": "BMS25",
+    "image_path": null
+  },
+  {
+    "name": "BOGE",
+    "slug": "boge",
+    "code": "BOG26",
+    "image_path": "BOGE.png"
+  },
+  {
+    "name": "BORGWARNER",
+    "slug": "borgwarner",
+    "code": "BOR27",
+    "image_path": "BORGWARNER.png"
+  },
+  {
+    "name": "BOSCH",
+    "slug": "bosch",
+    "code": "BOS28",
+    "image_path": "BOSCH.png"
+  },
+  {
+    "name": "BREMI",
+    "slug": "bremi",
+    "code": "BRE29",
+    "image_path": "BREMI.png"
+  },
+  {
+    "name": "CARPART",
+    "slug": "carpart",
+    "code": "CAR30",
+    "image_path": "CARPART.png"
+  },
+  {
+    "name": "CAVO",
+    "slug": "cavo",
+    "code": "CAV31",
+    "image_path": null
+  },
+  {
+    "name": "CIFAM",
+    "slug": "cifam",
+    "code": "CIF32",
+    "image_path": "CIFAM.png"
+  },
+  {
+    "name": "CONTINENTAL",
+    "slug": "continental",
+    "code": "CON33",
+    "image_path": "CONTINENTAL.png"
+  },
+  {
+    "name": "CORALS",
+    "slug": "corals",
+    "code": "COR34",
+    "image_path": "CORALS.png"
+  },
+  {
+    "name": "CORTECO",
+    "slug": "corteco",
+    "code": "COR35",
+    "image_path": "CORTECO.png"
+  },
+  {
+    "name": "DELPHI",
+    "slug": "delphi",
+    "code": "DEL36",
+    "image_path": "DELPHI.png"
+  },
+  {
+    "name": "DEM\u0130R\u00d6REN",
+    "slug": "demiroren",
+    "code": "DEM37",
+    "image_path": "DEM\u0130R\u00d6REN.png"
+  },
+  {
+    "name": "DENSO",
+    "slug": "denso",
+    "code": "DEN38",
+    "image_path": "DENSO.png"
+  },
+  {
+    "name": "DEPO",
+    "slug": "depo",
+    "code": "DEP39",
+    "image_path": "DEPO.png"
+  },
+  {
+    "name": "EBERSPACHER",
+    "slug": "eberspacher",
+    "code": "EBE40",
+    "image_path": "EBERSPACHER.png"
+  },
+  {
+    "name": "EFFBE",
+    "slug": "effbe",
+    "code": "EFF41",
+    "image_path": "EFFBE.png"
+  },
+  {
+    "name": "ELRING",
+    "slug": "elring",
+    "code": "ELR42",
+    "image_path": "ELRING.png"
+  },
+  {
+    "name": "ERA",
+    "slug": "era",
+    "code": "ERA43",
+    "image_path": null
+  },
+  {
+    "name": "ETG",
+    "slug": "etg",
+    "code": "ETG44",
+    "image_path": "ETG.png"
+  },
+  {
+    "name": "EURORICAMBI",
+    "slug": "euroricambi",
+    "code": "EUR45",
+    "image_path": "EURORICAMBI.png"
+  },
+  {
+    "name": "FAE",
+    "slug": "fae",
+    "code": "FAE46",
+    "image_path": "FAE.png"
+  },
+  {
+    "name": "FAG",
+    "slug": "fag",
+    "code": "FAG47",
+    "image_path": "FAG.png"
+  },
+  {
+    "name": "FANEX",
+    "slug": "fanex",
+    "code": "FAN48",
+    "image_path": "FANEX.png"
+  },
+  {
+    "name": "FER",
+    "slug": "fer",
+    "code": "FER49",
+    "image_path": "FER.png"
+  },
+  {
+    "name": "FERODO",
+    "slug": "ferodo",
+    "code": "FER50",
+    "image_path": "FERODO.png"
+  },
+  {
+    "name": "FIAMM",
+    "slug": "fiamm",
+    "code": "FIA51",
+    "image_path": "FIAMM.png"
+  },
+  {
+    "name": "FILTRON",
+    "slug": "filtron",
+    "code": "FIL52",
+    "image_path": "FILTRON.png"
+  },
+  {
+    "name": "FINDER",
+    "slug": "finder",
+    "code": "FIN53",
+    "image_path": null
+  },
+  {
+    "name": "FREMAX",
+    "slug": "fremax",
+    "code": "FRE54",
+    "image_path": "FREMAX.png"
+  },
+  {
+    "name": "FTE",
+    "slug": "fte",
+    "code": "FTE55",
+    "image_path": "FTE.png"
+  },
+  {
+    "name": "FYD",
+    "slug": "fyd",
+    "code": "FYD56",
+    "image_path": "FYD.png"
+  },
+  {
+    "name": "GARRETT",
+    "slug": "garrett",
+    "code": "GAR57",
+    "image_path": "GARRETT.png"
+  },
+  {
+    "name": "GATES",
+    "slug": "gates",
+    "code": "GAT58",
+    "image_path": "GATES.png"
+  },
+  {
+    "name": "GEBA",
+    "slug": "geba",
+    "code": "GEB59",
+    "image_path": "GEBA.png"
+  },
+  {
+    "name": "GEMO",
+    "slug": "gemo",
+    "code": "GEM60",
+    "image_path": "GEMO.png"
+  },
+  {
+    "name": "GK",
+    "slug": "gk",
+    "code": "GK61",
+    "image_path": "GK.png"
+  },
+  {
+    "name": "GKN",
+    "slug": "gkn",
+    "code": "GKN62",
+    "image_path": "GKN.png"
+  },
+  {
+    "name": "GLYCO",
+    "slug": "glyco",
+    "code": "GLY63",
+    "image_path": "GLYCO.png"
+  },
+  {
+    "name": "GOETZE",
+    "slug": "goetze",
+    "code": "GOE64",
+    "image_path": "GOETZE.png"
+  },
+  {
+    "name": "GOMET",
+    "slug": "gomet",
+    "code": "GOM65",
+    "image_path": "GOMET.png"
+  },
+  {
+    "name": "GRAF",
+    "slug": "graf",
+    "code": "GRA66",
+    "image_path": null
+  },
+  {
+    "name": "GTR",
+    "slug": "gtr",
+    "code": "GTR67",
+    "image_path": "GTR.png"
+  },
+  {
+    "name": "GUA",
+    "slug": "gua",
+    "code": "GUA68",
+    "image_path": null
+  },
+  {
+    "name": "HAGUS",
+    "slug": "hagus",
+    "code": "HAG69",
+    "image_path": "HAGUS.png"
+  },
+  {
+    "name": "HELLA",
+    "slug": "hella",
+    "code": "HEL70",
+    "image_path": "HELLA.png"
+  },
+  {
+    "name": "HELLA PAGID",
+    "slug": "hella-pagid",
+    "code": "HEL71",
+    "image_path": "HELLA PAGID.png"
+  },
+  {
+    "name": "HENGST",
+    "slug": "hengst",
+    "code": "HEN72",
+    "image_path": "HENGST.png"
+  },
+  {
+    "name": "HITACHI",
+    "slug": "hitachi",
+    "code": "HIT73",
+    "image_path": "HITACHI.png"
+  },
+  {
+    "name": "HOLI",
+    "slug": "holi",
+    "code": "HOL74",
+    "image_path": "HOLI.png"
+  },
+  {
+    "name": "HUCO",
+    "slug": "huco",
+    "code": "HUC75",
+    "image_path": "HUCO.png"
+  },
+  {
+    "name": "HUTCHINSON",
+    "slug": "hutchinson",
+    "code": "HUT76",
+    "image_path": "HUTCHINSON.png"
+  },
+  {
+    "name": "IHI",
+    "slug": "ihi",
+    "code": "IHI77",
+    "image_path": null
+  },
+  {
+    "name": "INA",
+    "slug": "ina",
+    "code": "INA78",
+    "image_path": "INA.png"
+  },
+  {
+    "name": "IPT",
+    "slug": "ipt",
+    "code": "IPT79",
+    "image_path": "IPT.png"
+  },
+  {
+    "name": "IWIS",
+    "slug": "iwis",
+    "code": "IWI80",
+    "image_path": "IWIS.png"
+  },
+  {
+    "name": "\u0130BRA\u015e",
+    "slug": "ibras",
+    "code": "\u0130BR81",
+    "image_path": "\u0130BRA\u015e.png"
+  },
+  {
+    "name": "JOPEX",
+    "slug": "jopex",
+    "code": "JOP82",
+    "image_path": null
+  },
+  {
+    "name": "KAFFER",
+    "slug": "kaffer",
+    "code": "KAF83",
+    "image_path": null
+  },
+  {
+    "name": "KAREM",
+    "slug": "karem",
+    "code": "KAR84",
+    "image_path": null
+  },
+  {
+    "name": "KING",
+    "slug": "king",
+    "code": "KIN85",
+    "image_path": null
+  },
+  {
+    "name": "KKK",
+    "slug": "kkk",
+    "code": "KKK86",
+    "image_path": "KKK.png"
+  },
+  {
+    "name": "KM GERMANY",
+    "slug": "km-germany",
+    "code": "KM 87",
+    "image_path": null
+  },
+  {
+    "name": "KNECHT",
+    "slug": "knecht",
+    "code": "KNE88",
+    "image_path": "KNECHT.png"
+  },
+  {
+    "name": "KOLBENSCHMIDT",
+    "slug": "kolbenschmidt",
+    "code": "KOL89",
+    "image_path": "KOLBENSCHMIDT.png"
+  },
+  {
+    "name": "KOSTAL",
+    "slug": "kostal",
+    "code": "KOS90",
+    "image_path": "KOSTAL.png"
+  },
+  {
+    "name": "KYB",
+    "slug": "kyb",
+    "code": "KYB91",
+    "image_path": "KYB.png"
+  },
+  {
+    "name": "LASO",
+    "slug": "laso",
+    "code": "LAS92",
+    "image_path": "LASO.png"
+  },
+  {
+    "name": "LEMFORDER",
+    "slug": "lemforder",
+    "code": "LEM93",
+    "image_path": "LEMFORDER.png"
+  },
+  {
+    "name": "LESJ\u00d6FORS",
+    "slug": "lesjofors",
+    "code": "LES94",
+    "image_path": "LESJ\u00d6FORS.png"
+  },
+  {
+    "name": "LUK",
+    "slug": "luk",
+    "code": "LUK95",
+    "image_path": "LUK.png"
+  },
+  {
+    "name": "MAGNETI MARELLI",
+    "slug": "magneti-marelli",
+    "code": "MAG96",
+    "image_path": "MAGNETI MARELLI.png"
+  },
+  {
+    "name": "MAHLE",
+    "slug": "mahle",
+    "code": "MAH97",
+    "image_path": "MAHLE.png"
+  },
+  {
+    "name": "MANN-HUMMEL",
+    "slug": "mann-hummel",
+    "code": "MAN98",
+    "image_path": "MANN-HUMMEL.png"
+  },
+  {
+    "name": "MAPA",
+    "slug": "mapa",
+    "code": "MAP99",
+    "image_path": null
+  },
+  {
+    "name": "MAYSAN",
+    "slug": "maysan",
+    "code": "MAY100",
+    "image_path": null
+  },
+  {
+    "name": "MCAR",
+    "slug": "mcar",
+    "code": "MCA101",
+    "image_path": null
+  },
+  {
+    "name": "MECAFILTER",
+    "slug": "mecafilter",
+    "code": "MEC102",
+    "image_path": "MECAFILTER.png"
+  },
+  {
+    "name": "MEKRA",
+    "slug": "mekra",
+    "code": "MEK103",
+    "image_path": "MEKRA.png"
+  },
+  {
+    "name": "METELLI",
+    "slug": "metelli",
+    "code": "MET104",
+    "image_path": "METELLI.png"
+  },
+  {
+    "name": "MEYLE",
+    "slug": "meyle",
+    "code": "MEY105",
+    "image_path": "MEYLE.png"
+  },
+  {
+    "name": "MINTEX",
+    "slug": "mintex",
+    "code": "MIN106",
+    "image_path": null
+  },
+  {
+    "name": "MITSUBISHI",
+    "slug": "mitsubishi",
+    "code": "MIT107",
+    "image_path": "MITSUBISHI.png"
+  },
+  {
+    "name": "MO",
+    "slug": "mo",
+    "code": "MO108",
+    "image_path": "MO.png"
+  },
+  {
+    "name": "MONROE",
+    "slug": "monroe",
+    "code": "MON109",
+    "image_path": "MONROE.png"
+  },
+  {
+    "name": "MOOG",
+    "slug": "moog",
+    "code": "MOO110",
+    "image_path": null
+  },
+  {
+    "name": "MOTOPOWER",
+    "slug": "motopower",
+    "code": "MOT111",
+    "image_path": null
+  },
+  {
+    "name": "NGK",
+    "slug": "ngk",
+    "code": "NGK112",
+    "image_path": "NGK.png"
+  },
+  {
+    "name": "NTK",
+    "slug": "ntk",
+    "code": "NTK113",
+    "image_path": null
+  },
+  {
+    "name": "NURAL",
+    "slug": "nural",
+    "code": "NUR114",
+    "image_path": "NURAL.png"
+  },
+  {
+    "name": "OE-GERMANY",
+    "slug": "oe-germany",
+    "code": "OE-115",
+    "image_path": "OE-GERMANY.png"
+  },
+  {
+    "name": "OPTIMAL",
+    "slug": "optimal",
+    "code": "OPT116",
+    "image_path": "OPTIMAL.png"
+  },
+  {
+    "name": "ORAN",
+    "slug": "oran",
+    "code": "ORA117",
+    "image_path": "ORAN.png"
+  },
+  {
+    "name": "ORBUS",
+    "slug": "orbus",
+    "code": "ORB118",
+    "image_path": null
+  },
+  {
+    "name": "OR\u0130J\u0130NAL",
+    "slug": "orijinal",
+    "code": "OR\u0130119",
+    "image_path": null
+  },
+  {
+    "name": "OSRAM",
+    "slug": "osram",
+    "code": "OSR120",
+    "image_path": "OSRAM.png"
+  },
+  {
+    "name": "PHILIPS",
+    "slug": "philips",
+    "code": "PHI121",
+    "image_path": "PHILIPS.png"
+  },
+  {
+    "name": "PHIRA",
+    "slug": "phira",
+    "code": "PHI122",
+    "image_path": "PHIRA.png"
+  },
+  {
+    "name": "PIERBURG",
+    "slug": "pierburg",
+    "code": "PIE123",
+    "image_path": "PIERBURG.png"
+  },
+  {
+    "name": "PLEKSAN",
+    "slug": "pleksan",
+    "code": "PLE124",
+    "image_path": null
+  },
+  {
+    "name": "PLUSTECH",
+    "slug": "plustech",
+    "code": "PLU125",
+    "image_path": null
+  },
+  {
+    "name": "PRO-USER",
+    "slug": "pro-user",
+    "code": "PRO126",
+    "image_path": null
+  },
+  {
+    "name": "RAPRO",
+    "slug": "rapro",
+    "code": "RAP127",
+    "image_path": "RAPRO.png"
+  },
+  {
+    "name": "REZAW-PLAST",
+    "slug": "rezaw-plast",
+    "code": "REZ128",
+    "image_path": "REZAW-PLAST.png"
+  },
+  {
+    "name": "ROADHOUSE",
+    "slug": "roadhouse",
+    "code": "ROA129",
+    "image_path": null
+  },
+  {
+    "name": "RUVILLE",
+    "slug": "ruville",
+    "code": "RUV130",
+    "image_path": "RUVILLE.png"
+  },
+  {
+    "name": "SACHS",
+    "slug": "sachs",
+    "code": "SAC131",
+    "image_path": "SACHS.png"
+  },
+  {
+    "name": "SANZ",
+    "slug": "sanz",
+    "code": "SAN132",
+    "image_path": null
+  },
+  {
+    "name": "SARDES",
+    "slug": "sardes",
+    "code": "SAR133",
+    "image_path": null
+  },
+  {
+    "name": "SCHNIEDER",
+    "slug": "schnieder",
+    "code": "SCH134",
+    "image_path": "SCHNIEDER.png"
+  },
+  {
+    "name": "SCH\u00d6NEK",
+    "slug": "schonek",
+    "code": "SCH135",
+    "image_path": null
+  },
+  {
+    "name": "SIDEM",
+    "slug": "sidem",
+    "code": "SID136",
+    "image_path": "SIDEM.png"
+  },
+  {
+    "name": "SMD",
+    "slug": "smd",
+    "code": "SMD137",
+    "image_path": "SMD.png"
+  },
+  {
+    "name": "SODSAN",
+    "slug": "sodsan",
+    "code": "SOD138",
+    "image_path": null
+  },
+  {
+    "name": "SONNE",
+    "slug": "sonne",
+    "code": "SON139",
+    "image_path": "SONNE.png"
+  },
+  {
+    "name": "SPJ",
+    "slug": "spj",
+    "code": "SPJ140",
+    "image_path": "SPJ.png"
+  },
+  {
+    "name": "SPOT",
+    "slug": "spot",
+    "code": "SPO141",
+    "image_path": "SPOT.png"
+  },
+  {
+    "name": "SPOT A",
+    "slug": "spot-a",
+    "code": "SPO142",
+    "image_path": "SPOT A.png"
+  },
+  {
+    "name": "SPOT B",
+    "slug": "spot-b",
+    "code": "SPO143",
+    "image_path": "SPOT B.png"
+  },
+  {
+    "name": "SPOT C",
+    "slug": "spot-c",
+    "code": "SPO144",
+    "image_path": "SPOT C.png"
+  },
+  {
+    "name": "STABILUS",
+    "slug": "stabilus",
+    "code": "STA145",
+    "image_path": "STABILUS.png"
+  },
+  {
+    "name": "S-TEC",
+    "slug": "s-tec",
+    "code": "S-T146",
+    "image_path": "S-TEC.png"
+  },
+  {
+    "name": "SUPAR",
+    "slug": "supar",
+    "code": "SUP147",
+    "image_path": "SUPAR.png"
+  },
+  {
+    "name": "SWAG",
+    "slug": "swag",
+    "code": "SWA148",
+    "image_path": "SWAG.png"
+  },
+  {
+    "name": "SWF",
+    "slug": "swf",
+    "code": "SWF149",
+    "image_path": "SWF.png"
+  },
+  {
+    "name": "TAI",
+    "slug": "tai",
+    "code": "TAI150",
+    "image_path": "TAI.png"
+  },
+  {
+    "name": "TET\u0130K",
+    "slug": "tetik",
+    "code": "TET151",
+    "image_path": "TET\u0130K.png"
+  },
+  {
+    "name": "TEXTAR",
+    "slug": "textar",
+    "code": "TEX152",
+    "image_path": "TEXTAR.png"
+  },
+  {
+    "name": "TFC",
+    "slug": "tfc",
+    "code": "TFC153",
+    "image_path": "TFC.png"
+  },
+  {
+    "name": "TOPRAN",
+    "slug": "topran",
+    "code": "TOP154",
+    "image_path": "TOPRAN.png"
+  },
+  {
+    "name": "TROST",
+    "slug": "trost",
+    "code": "TRO155",
+    "image_path": "TROST.png"
+  },
+  {
+    "name": "TRUCKTEC",
+    "slug": "trucktec",
+    "code": "TRU156",
+    "image_path": "TRUCKTEC.png"
+  },
+  {
+    "name": "TRW",
+    "slug": "trw",
+    "code": "TRW157",
+    "image_path": "TRW.png"
+  },
+  {
+    "name": "UCP",
+    "slug": "ucp",
+    "code": "UCP158",
+    "image_path": "UCP.png"
+  },
+  {
+    "name": "ULO",
+    "slug": "ulo",
+    "code": "ULO159",
+    "image_path": "ULO.png"
+  },
+  {
+    "name": "VALEO",
+    "slug": "valeo",
+    "code": "VAL160",
+    "image_path": "VALEO.png"
+  },
+  {
+    "name": "VARTA",
+    "slug": "varta",
+    "code": "VAR161",
+    "image_path": "VARTA.png"
+  },
+  {
+    "name": "VDO",
+    "slug": "vdo",
+    "code": "VDO162",
+    "image_path": "VDO.png"
+  },
+  {
+    "name": "VIEW MAX",
+    "slug": "view-max",
+    "code": "VIE163",
+    "image_path": "VIEW MAX.png"
+  },
+  {
+    "name": "VIKA",
+    "slug": "vika",
+    "code": "VIK164",
+    "image_path": null
+  },
+  {
+    "name": "WAHLER",
+    "slug": "wahler",
+    "code": "WAH165",
+    "image_path": "WAHLER.png"
+  },
+  {
+    "name": "WENDERPARTS",
+    "slug": "wenderparts",
+    "code": "WEN166",
+    "image_path": "WENDERPARTS.png"
+  },
+  {
+    "name": "WILDCAT",
+    "slug": "wildcat",
+    "code": "WIL167",
+    "image_path": null
+  },
+  {
+    "name": "WOLF",
+    "slug": "wolf",
+    "code": "WOL168",
+    "image_path": "WOLF.png"
+  },
+  {
+    "name": "WUNDER",
+    "slug": "wunder",
+    "code": "WUN169",
+    "image_path": null
+  },
+  {
+    "name": "WURTH",
+    "slug": "wurth",
+    "code": "WUR170",
+    "image_path": "WURTH.png"
+  },
+  {
+    "name": "YENMAK",
+    "slug": "yenmak",
+    "code": "YEN171",
+    "image_path": null
+  },
+  {
+    "name": "YTT",
+    "slug": "ytt",
+    "code": "YTT172",
+    "image_path": null
+  },
+  {
+    "name": "ZF",
+    "slug": "zf",
+    "code": "ZF173",
+    "image_path": "ZF.png"
+  },
+  {
+    "name": "ZIEGLER",
+    "slug": "ziegler",
+    "code": "ZIE174",
+    "image_path": "ZIEGLER.png"
+  },
+  {
+    "name": "ZIMMERMANN",
+    "slug": "zimmermann",
+    "code": "ZIM175",
+    "image_path": "ZIMMERMANN.png"
+  },
+  {
+    "name": "ZKW",
+    "slug": "zkw",
+    "code": "ZKW176",
+    "image_path": null
+  }
+]

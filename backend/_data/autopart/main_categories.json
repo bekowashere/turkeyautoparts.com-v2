@@ -1,0 +1,155 @@
+[
+    {
+        "name_en":"Air conditioning-heating system/radiators",
+        "name_de":"Klimaanlage / Heizung / Kühler",
+        "slug":"air-conditioning-heating-system-radiators",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Body/body parts/hook",
+        "name_de":"Karosserie / Karosserieteile / Anhängerkupplung",
+        "slug":"body-body-parts-hook",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Brake system",
+        "name_de":"Bremsanlage",
+        "slug":"brake-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Cabin/interior",
+        "name_de":"Innenraum / Interieur",
+        "slug":"cabin-interior",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Devices/switches/electronic system",
+        "name_de":"Geräte / Schalter / Elektrik",
+        "slug":"devices-switches-electronic-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Door",
+        "name_de":"Tür",
+        "slug":"door",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Engine",
+        "name_de":"Motor",
+        "slug":"engine",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Exterior front body parts",
+        "name_de":"Vordere Karosserieteile",
+        "slug":"exterior-front-body-parts",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Exterior rear body parts",
+        "name_de":"Hintere Karosserieteile",
+        "slug":"exterior-rear-body-parts",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Front axle",
+        "name_de":"Vorderachse",
+        "slug":"front-axle",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Fuel mixture system",
+        "name_de":"Kraftstoffaufbereitung",
+        "slug":"fuel-mixture-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Gas exhaust system",
+        "name_de":"Abgasanlage",
+        "slug":"gas-exhaust-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Gearbox/clutch/transmission",
+        "name_de":"Getriebe / Kupplung",
+        "slug":"gearbox-clutch-transmission",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Glass",
+        "name_de":"Fenster Scheibe",
+        "slug":"glass",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Headlight/headlamp washing/cleaning system",
+        "name_de":"Scheinwerferreinigungsanlage",
+        "slug":"headlight-headlamp-washing-cleaning-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Lighting system",
+        "name_de":"Beleuchtungssystem",
+        "slug":"lighting-system",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Other parts",
+        "name_de":"Sonstige Einzelteile",
+        "slug":"other-parts",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Rear axle",
+        "name_de":"Hinterachse",
+        "slug":"rear-axle",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    },
+    {
+        "name_en":"Wheels/tires/caps",
+        "name_de":"Räder / Reifen / Radkappen",
+        "slug":"wheels-tires-caps",
+        "description":null,
+        "image":null,
+        "parent_slug":null
+    }
+    
+]
